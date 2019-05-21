@@ -15,7 +15,7 @@ pushes. The switches on the device is also used to turn logging on/off.
 Gear:
 1. TMP102 temperature sensor
 2. NXP LPC1786 micro-controller
-3. Mokia LCD display
+3. Mokia LCD display (N5110)
 4. PCB board
 5. Battery
 6. LEDs and Switches
